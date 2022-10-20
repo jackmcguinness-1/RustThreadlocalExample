@@ -44,3 +44,5 @@ fn sum_of_squares(){
 
     println!("total from thread local: {}",total);
 }
+
+// https://docs.rs/thread_local/1.1.4/thread_local/
